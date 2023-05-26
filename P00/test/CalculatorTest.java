@@ -79,5 +79,5 @@ public class CalculatorTest {
 		int expected = 45;
 		assertEquals (expected,actual);
 	}
-	//maah
+	
 }
